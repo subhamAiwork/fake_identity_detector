@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pandas
+pillow
+matplotlib
+scikit-learn
+pyarrow
+requests
+joblib
